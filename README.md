@@ -1,4 +1,4 @@
-#  the steps we did : 
+# impalementing OAuth and OpenID mechanism for SSO , steps we did : 
 
 open github account > setting > developers settings > OauthApps > create new oauth app : 
 1- add Application name
