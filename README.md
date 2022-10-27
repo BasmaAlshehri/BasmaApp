@@ -1,4 +1,4 @@
-# After generating 'Basma App' settings we make this code using JavaScript language
+# After generating 'Basma App' settings using Oauth apps in github , we make this code using JavaScript language to implement it
 
 const express = require('express')
 
