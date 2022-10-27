@@ -29,3 +29,4 @@ app.listen(3000, () => {
 we will copy the link that is shown in github Documentation  : https://github.com/login/oauth/authorize
 we will add (?client_id="our application client id)
 # then it will show the login page > authorize > thats all.
+# Finally we got Verification message sent to my email alert me that there is third party access to the Account in Github .
