@@ -7,7 +7,8 @@ open github account > setting > developers settings > OauthApps > create new oau
 
 after that it will shows Clinet_id and Clinet Secret_id  
 
-# After generating 'Basma App' settings using Oauth apps in github , we make this code using JavaScript language to implement it
+# After generating 'Basma App' settings using Oauth apps in github , we make this code using JavaScript language to implement it 
+# NOTE :( the code is also uploaded in separete page in our project page in github as "JavaScribt" file )
 
 const express = require('express')
 
